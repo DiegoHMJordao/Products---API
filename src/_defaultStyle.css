@@ -1,0 +1,13 @@
+*{
+    font-family: 'Roboto','Verdana', sans-serif;
+    font-size: 1rem;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
