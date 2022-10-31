@@ -92,7 +92,7 @@ export const FilterDiv = styled.div`
     width: 15rem;
     height: 44rem;
     background-color:#e7d9b4;
-    border-radius:20px;
+    border-radius:8px;
     h3{
         color:black;
         font-weight: bold;
